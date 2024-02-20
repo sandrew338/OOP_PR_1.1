@@ -1,0 +1,5 @@
+﻿  Cursor.cpp
+B:\documents\codding\c++\source\repos\univer(labs)\OOP\PR_1.1\Cursor.cpp(17,46): warning C4018: '<=': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  PR_1.1.vcxproj -> B:\documents\codding\c++\source\repos\univer(labs)\OOP\PR_1.1\x64\Debug\PR_1.1.exe

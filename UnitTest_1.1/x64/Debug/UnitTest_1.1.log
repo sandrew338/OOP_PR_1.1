@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2128,5): warning : The referenced project '..\PR_1.1\PR_1.1.vcxproj' does not exist.
+  UnitTest_1.1.vcxproj -> B:\documents\codding\c++\source\repos\univer(labs)\OOP\PR_1.1\x64\Debug\UnitTest_1.1.dll
